@@ -1,0 +1,59 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+}
+body {
+    background-color: darkgray;
+}
+header {
+    width: 850px;
+    height: 325px;
+    margin-top: 25px;
+    margin-left: 30px;
+    background-color: lightseagreen;
+    position: relative;
+}
+#mc {
+    width: 400px;
+    height: 80px;
+    background-color: red;
+    text-align: center;
+    color: yellowgreen;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 36px;
+    float: left;
+    padding-top: 20px;
+    margin-top: 20px;
+    margin-left: 30px;
+}
+#css {
+    padding-top: 120px;
+    padding-left: 50px;
+    color: white;
+    font-weight: 600;
+    font-size: 58px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#caja1 {
+    width: 250px;
+    height: 350px;
+    background-color: black;
+    opacity: 0.5;
+    position: fixed;
+    top: 0px;
+    right: 0px;
+}
+#lorem {
+    height: 300px;
+    width: 200px;
+    margin-top: 50px;
+    margin-left: -40px;
+    text-align: inherit;
+    padding-left: 30px;
+    padding-top: 20px;
+    padding-right: 20px;
+    background-color: rgb(201, 238, 128);
+    font-family: Arial, Helvetica, sans-serif;
+    position: fixed;
+}
+

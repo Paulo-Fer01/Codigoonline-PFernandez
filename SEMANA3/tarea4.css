@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+}
+body {
+    background-color: lightblue;
+}
+
+.cont1 {
+    width: 300px;
+    height: 400px;
+    background-color: lightcyan;
+    position: relative;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, 20%);
+    border-radius: 5px;
+}
+.circulo {
+   position: absolute;
+   border-radius: 50%;
+   bottom: 70%;
+   left: 50%;
+   transform: translate(-50%, 50%);
+}
